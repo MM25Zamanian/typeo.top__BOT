@@ -17,7 +17,6 @@ pip install -r requirements.txt
 
 Run Bot with `python BOT.py` and copy text from site , wait 15 secs and BOOOOOOOOOO
 
-Reference-style: 
-![alt text][logo]
+![Demo Video][Demo]
 
-[logo]: https://github.com/mm25zamanian/typeo.top__BOT/raw/main/2021-06-20T09-17-06.gif "Logo Title Text 2"
+[Demo]: https://github.com/mm25zamanian/typeo.top__BOT/raw/main/2021-06-20T09-17-06.gif "Logo Title Text 2"
