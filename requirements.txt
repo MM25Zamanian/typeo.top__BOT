@@ -1,0 +1,3 @@
+autopep8==1.5.7
+klembord==0.2.2
+PyAutoGUI==0.9.52
