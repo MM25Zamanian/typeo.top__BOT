@@ -4,9 +4,9 @@ from time import sleep
 
 init()
 
-sleep(15)
+sleep(20)
 c = str(get_text())
 print(c)
 for i in c:
     press(i)
-    sleep(0.005)
+    sleep(0.001)
