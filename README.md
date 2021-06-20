@@ -20,4 +20,4 @@ Run Bot with `python BOT.py` and copy text from site , wait 15 secs and BOOOOOOO
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://github.com/mm25zamanian/typeo.top__BOT/blob/main/2021-06-20T09-17-06.webm?raw=true "Logo Title Text 2"
